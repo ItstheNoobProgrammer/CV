@@ -1,0 +1,22 @@
+/******************* TAG CSS *********************************/
+body{
+    margin: 0;
+    text-align: center;
+    background-color: #E4F9F5;
+    font-family: 'Architects Daughter', cursive;
+}
+/******************* Class CSS *******************************/
+.topdiv{
+position: relative;
+padding-top: 100px;
+}
+.topcloud{
+    position: absolute;
+    right: 300px;
+    top:50px
+}
+.botcloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
